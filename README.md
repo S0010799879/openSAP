@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 3D Models consumed by the examples can also be downloaded from this site.
 
-{% loop_directory directory:Models iterator:file filter:*.vds sort:descending %}
-   <a href="{{ image }}" text="{{ image }}"/>
-{% endloop_directory %}
+<ul>
+    <li><a href="https://sapvisualbusiness.github.io/openSAP/Models/Clutch.vds">3D Clutch Model</a></li>
+</ul>
 
