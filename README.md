@@ -2,8 +2,8 @@
 
 You can download and use models from this site as part of the openSAP 'Maps and 3D made easy with SAPUI5' course. 
 
-### Resources
-## 3D Models
+## Resources
+### 3D Models
 
 3D Models consumed by the examples can also be downloaded from this site.
 
